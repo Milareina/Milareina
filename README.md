@@ -29,7 +29,7 @@
       <h4>⚙️ Фреймворки и библиотеки</h4>
       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,webpack" alt="Frameworks" />
       <h4>🛠 Инструменты и платформы</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,figma,wordpress" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,figma,wordpress,codepen,vscode" alt="Tools" />
     </td>
   </tr>
 </table>
