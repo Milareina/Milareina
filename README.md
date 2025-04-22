@@ -1,4 +1,4 @@
-<!-- Языковой переключатель -->
+
 <div align="right" style="margin-top: -30px;">
   <a href="#russian-version" style="text-decoration:none;margin-right:10px;font-weight:bold;">🇷🇺 Русский</a> |
   <a href="#english-version" style="text-decoration:none;margin-left:10px;font-weight:bold;">🇬🇧 English</a>
@@ -76,7 +76,7 @@
 
 <br/><br/><br/><br/><br/><br/><br/>
 
-<!-- 🇬🇧 ENGLISH VERSION -->
+
 <h1 align="center" id="english-version">Hi there, I’m Mila 👋</h1>
 <h3 align="center">Frontend Developer & Project Manager in progress</h3>
 <p align="center">I love building clean, responsive UIs and keeping everything smooth & organized.</p>
