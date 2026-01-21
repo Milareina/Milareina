@@ -6,8 +6,8 @@
 
 <!-- 🇷🇺 RUSSIAN VERSION -->
 <h1  align="center" id="russian-version">Привет! Меня зовут Мила 👋</h1>
-<h3 align="center">Фронтенд-разработчица, увлечённая проектным менеджментом</h3>
-<p align="center">Пишу код с душой, руковожу с заботой 💻✨</p>
+<h3 align="center">Фронтенд-разработчица</h3>
+<p align="center">Пишу код с душой💻✨</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5a03fc&text=center&lines=Frontend+Web+Developer;Project+Management+Explorer;React+%7C+Next.js+%7C+TypeScript%7C+JS;Let's+Build+Something+Great!" alt="Typing SVG" />
@@ -62,9 +62,9 @@
 <h2 align="center">💫 Немного обо мне:</h2>
 <p>Люблю понятные интерфейсы, стильный минимализм и когда всё работает плавно.
 Ценю чёткость, честность и стремление к лучшему. Учусь каждый день, потому что мир IT не стоит на месте.
-Обожаю, когда сложное становится простым — и для пользователя, и для команды.
-Иногда залипаю в стилях дольше, чем в коде — хочется, чтобы каждая кнопка «чувствовалась» идеально 🙈
-А ещё — люблю море, составлять уютные списки задач и ощущение, когда деплой прошёл без ошибок.
+Обожаю, когда сложное становится простым и для пользователя, и для команды.
+Иногда залипаю в стилях дольше, чем в коде, хочется, чтобы каждая кнопка «чувствовалась» идеально 🙈
+А ещё люблю море, составлять уютные списки задач и ощущение, когда деплой прошёл без ошибок.
 
 </p>
 <p align="right">
@@ -78,7 +78,7 @@
 
 
 <h1 align="center" id="english-version">Hi there, I’m Mila 👋</h1>
-<h3 align="center">Frontend Developer & Project Manager in progress</h3>
+<h3 align="center">Frontend Developer</h3>
 <p align="center">I love building clean, responsive UIs and keeping everything smooth & organized.</p>
 
 <p align="center">
@@ -132,9 +132,9 @@
 <h2 align="center">💫 A little about me:</h2>
 <p>I love clean interfaces, stylish minimalism, and when everything runs smoothly.
 I value clarity, honesty, and the drive to grow. I learn every day — the IT world never stands still.
-I enjoy turning the complex into something simple — for both users and the team.
-Sometimes I get lost in styles longer than in code — I just want every button to feel just right 🙈
-Also — I love the sea, cozy to-do lists, and that satisfying moment when the deploy goes off without a hitch.
+I enjoy turning the complex into something simple for both users and the team.
+Sometimes I get lost in styles longer than in code I just want every button to feel just right 🙈
+Also I love the sea, cozy to-do lists, and that satisfying moment when the deploy goes off without a hitch.
 
 </p>
 
