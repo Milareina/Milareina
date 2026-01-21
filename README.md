@@ -10,7 +10,7 @@
 <p align="center">Пишу код с душой💻✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5a03fc&text=center&lines=Frontend+Web+Developer;Project+Management+Explorer;React+%7C+Next.js+%7C+TypeScript%7C+JS;Let's+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5a03fc&text=center&lines=Frontend+Web+Developer;React+%7C+Next.js+%7C+TypeScript%7C+JS;Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
 <hr/>
@@ -82,7 +82,7 @@
 <p align="center">I love building clean, responsive UIs and keeping everything smooth & organized.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5a03fc&text=center&lines=Frontend+Web+Developer;Project+Management+Explorer;React+%7C+Next.js+%7C+TypeScript%7C+JS;Let's+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5a03fc&text=center&lines=Frontend+Web+Developer;React+%7C+Next.js+%7C+TypeScript%7C+JS;Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
 <hr/>
